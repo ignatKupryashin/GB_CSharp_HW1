@@ -1,0 +1,15 @@
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.csproj.AssemblyReference.cache
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.AssemblyInfoInputs.cache
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.AssemblyInfo.cs
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.csproj.CoreCompileInputs.cache
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/bin/Debug/net6.0/HW_01
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/bin/Debug/net6.0/HW_01.deps.json
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/bin/Debug/net6.0/HW_01.runtimeconfig.json
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/bin/Debug/net6.0/HW_01.dll
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/bin/Debug/net6.0/HW_01.pdb
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.dll
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/refint/HW_01.dll
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.pdb
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/HW_01.genruntimeconfig.cache
+/Users/ignatkuprasin/Desktop/IT Обучение/03.Знакомство с языками программирования/HW_01/obj/Debug/net6.0/ref/HW_01.dll
